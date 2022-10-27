@@ -1,0 +1,11 @@
+.maindiv{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 80vh;
+    background-color: white;
+    height: 80vh;
+    border-radius: 3rem;
+    padding: 3rem;
+}
